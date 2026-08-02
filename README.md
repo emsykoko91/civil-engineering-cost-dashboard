@@ -8,7 +8,7 @@
 
 ## Dashboard Preview
 
-![Commercial Cost Control Dashboard](screenshots/dashboard.png)
+![Commercial Cost Control Dashboard](Screenshots/dashboard.png)
 
 ## Project Overview
 
