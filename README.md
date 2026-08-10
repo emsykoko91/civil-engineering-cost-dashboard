@@ -119,6 +119,12 @@ Key calculations include:
 ![Budget Reconciliation](Screenshots/Budget-reconciliation.png)
 
 
+## Variance Analysis
+
+Variance analysis was performed at cost-category level to identify where expenditure was occurring and monitor remaining budget availability.
+
+![Variance Analysis](Screenshots/Variance-analysis.png)
+
 ## Reporting Architecture
 
 ```text
