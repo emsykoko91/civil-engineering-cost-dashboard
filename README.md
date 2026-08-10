@@ -125,6 +125,16 @@ Variance analysis was performed at cost-category level to identify where expendi
 
 ![Variance Analysis](Screenshots/Variance-analysis.png)
 
+
+## Pivot Analysis
+
+Interactive Pivot Tables and Pivot Charts were developed to analyse expenditure by project, supplier, month and cost category.
+
+These visuals form the analytical layer that powers the executive dashboard.
+
+![Pivot Analysis](Screenshots/Pivot-analysis.png)
+
+
 ## Reporting Architecture
 
 ```text
