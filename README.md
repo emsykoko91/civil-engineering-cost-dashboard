@@ -99,6 +99,11 @@ Civil Engineering Cost Control.xlsx
 ├── Pivot Analysis
 └── Dashboard
 ```
+## Data Model
+
+The reporting model uses separate master and transaction tables linked through unique identifiers to minimise duplication and improve data integrity.
+
+![Data Model](Screenshots/projects-table.png)
 
 ## Reporting Architecture
 
