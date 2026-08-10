@@ -103,7 +103,21 @@ Civil Engineering Cost Control.xlsx
 
 The reporting model uses separate master and transaction tables linked through unique identifiers to minimise duplication and improve data integrity.
 
-![Commercial Cost Control Dashboard](Screenshots/projects-table.png)
+![Data Model](Screenshots/projects-table.png)
+
+## Budget Reconciliation
+
+The reconciliation model compares approved project budgets with actual expenditure to monitor commercial performance.
+
+Key calculations include:
+
+- Planned Margin
+- Actual Spend
+- Remaining Budget
+- Budget Utilisation
+
+![Budget Reconciliation](Screenshots/Budget-reconciliation.png)
+
 
 ## Reporting Architecture
 
