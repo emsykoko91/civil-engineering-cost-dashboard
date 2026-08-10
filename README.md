@@ -103,7 +103,7 @@ Civil Engineering Cost Control.xlsx
 
 The reporting model uses separate master and transaction tables linked through unique identifiers to minimise duplication and improve data integrity.
 
-![Data Model](Screenshots/projects-table.png)
+![Data Model](screenshots/projects-table.png)
 
 ## Reporting Architecture
 
